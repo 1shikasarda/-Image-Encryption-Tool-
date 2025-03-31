@@ -1,4 +1,4 @@
-# -Image-Encryption-Tool-
+# Image Encryption Tool
 🔒 Problem Statement
 Develop a simple image encryption tool using pixel manipulation. The program should allow users to encrypt and decrypt images by modifying pixel values through operations like swapping pixel values or applying basic mathematical transformations to each pixel.
 
