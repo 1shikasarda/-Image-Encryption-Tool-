@@ -1,4 +1,4 @@
-# Image Encryption Tool
+# Image Encryption Tool 🔍
 ## *Overview*
 It is a simple image encryption tool using pixel manipulation which allow users to encrypt and decrypt images by modifying pixel values through operations like swapping pixel values or applying basic mathematical transformations to each pixel. This Python script performs XOR-based encryption and decryption on images, ensuring secure transformation and recovery of the original image using a randomly generated key 🔒.
 
